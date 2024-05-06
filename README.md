@@ -3,7 +3,7 @@
 
 This repository hosts an API providing access to a comprehensive collection of Islamic resources, including the Quran, Hadith, Duas, and Seerah. Developers can use this API to integrate authenticated Islamic texts and references into their applications.
 
-## Endpoints
+## Endpoints: `starts with api/`
 
 ### Quran API
 
