@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const Hadith = require("../schema/hadithSchema");
+const Hadith = require("../model/hadithSchema");
 const mongoose = require("mongoose");
 
 // fetch list of books

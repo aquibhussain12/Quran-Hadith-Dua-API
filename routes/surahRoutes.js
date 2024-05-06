@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Surah = require('../schema/surahModel');
+const Surah = require('../model/surahModel');
 
 // Define the route to get a list of Surahs
 router.get('/surahs', async (req, res) => {

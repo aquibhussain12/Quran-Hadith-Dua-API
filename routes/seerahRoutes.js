@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express.Router();
-const Chapter = require('../schema/seerahmodel')
+const Chapter = require('../model/seerahmodel')
 
 
 

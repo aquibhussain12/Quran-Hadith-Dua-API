@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 // Import the DataModel from your main file
-const dua = require('../schema/duaModel');
+const dua = require('../model/duaModel');
 
 // Route to get the list of chapters
 router.get('/chapters', async (req, res,next) => {
