@@ -150,9 +150,6 @@ git clone https://github.com/aquibhussain12/Quran-Hadith-Dua-API
 cd Quran-Hadith-Dua-API
 npm install
 
-arduino
-Copy code
-
 3. **Configure Environment Variables**: If necessary, configure any environment variables required for the API to run, such as database connection strings or API keys. You may need to create a `.env` file for this purpose.
 
 4. **Run the Server**: Start the API server using the following command:
