@@ -167,6 +167,4 @@ npm start
 
 7. **Contribute**: If you encounter any issues or have suggestions for improvements
 8. **Database Access**: contact aquibaquib.dar12@gmail.com
-## License
 
-This API is open-source and licensed under the [MIT License](LICENSE).
